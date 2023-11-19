@@ -1,2 +1,2 @@
-# engg-blogs
-A well list of engineering blogs to follow
+# rss-feeds
+A well list of rss-feeds to follow
